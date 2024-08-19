@@ -90,7 +90,7 @@ class Quiz {
     }
 }
 
-public class SmartAssessmentBoard {
+public class Main {
     public static void main(String[] args) {
         Quiz quiz = new Quiz();
         Scanner scanner = new Scanner(System.in);
